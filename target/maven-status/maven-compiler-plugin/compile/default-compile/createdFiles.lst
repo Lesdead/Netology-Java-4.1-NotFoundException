@@ -1,0 +1,6 @@
+ru/netology/repository/Repository.class
+ru/netology/domain/Product.class
+ru/netology/domain/Book.class
+ru/netology/exceptions/NotFoundException.class
+ru/netology/manager/Manager.class
+ru/netology/domain/TShirt.class

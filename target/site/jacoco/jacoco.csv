@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Syndrome,ru.netology.domain,TShirt,14,12,0,0,6,4,4,1,4,1
+Syndrome,ru.netology.domain,Book,36,15,4,0,14,5,9,1,7,1
+Syndrome,ru.netology.domain,Product,27,15,2,0,11,6,7,2,6,2
+Syndrome,ru.netology.repository,Repository,0,124,0,10,0,27,0,10,0,5
+Syndrome,ru.netology.manager,Manager,57,0,4,0,11,0,5,0,3,0
+Syndrome,ru.netology.exceptions,NotFoundException,0,4,0,0,0,2,0,1,0,1
